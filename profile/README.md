@@ -6,3 +6,5 @@ Pour chaque devoir, pour créer votre propre dépôt, cliquez sur le lien corres
 
 1 - Premiers pas avec git et GitHub : https://classroom.github.com/a/VtpQSyg7
 
+2 - Architecture d'un ordinateur : https://classroom.github.com/a/Tn_n97Et
+
