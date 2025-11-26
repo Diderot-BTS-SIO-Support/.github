@@ -15,3 +15,5 @@ Pour chaque devoir, pour créer votre propre dépôt, cliquez sur le lien corres
 5 - Commandes de base Linux : https://classroom.github.com/a/Au2HQysj
 
 6 - Gestion d'utilisateurs Linux : https://classroom.github.com/a/2ETPgOYO
+
+7 - Système de fichiers Linux : https://classroom.github.com/a/gxN8nSeG
