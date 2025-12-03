@@ -17,3 +17,5 @@ Pour chaque devoir, pour créer votre propre dépôt, cliquez sur le lien corres
 6 - Gestion d'utilisateurs Linux : https://classroom.github.com/a/2ETPgOYO
 
 7 - Système de fichiers Linux : https://classroom.github.com/a/gxN8nSeG
+
+8 - Commandes et filtres Linux : https://classroom.github.com/a/RFu0lhID
