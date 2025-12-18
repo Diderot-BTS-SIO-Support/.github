@@ -23,3 +23,5 @@ Pour chaque devoir, pour créer votre propre dépôt, cliquez sur le lien corres
 9 - Introduction à la programmation - Premières notions : https://classroom.github.com/a/LhGGi9YC
 
 10 - Introduction à la programmation - Instructions de contrôle : https://classroom.github.com/a/JTrUyzxl
+
+11 - Introduction à la programmation - Données structurées : https://classroom.github.com/a/HMEPHfQh
