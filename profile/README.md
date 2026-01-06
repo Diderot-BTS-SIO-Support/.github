@@ -27,3 +27,5 @@ Pour chaque devoir, pour créer votre propre dépôt, cliquez sur le lien corres
 11 - Introduction à la programmation - Données structurées : https://classroom.github.com/a/HMEPHfQh
 
 Devoir à faire à la maison - Premier semestre : https://classroom.github.com/a/2BTij6Qm
+
+12 - Introduction à la programmation - Fonctions : https://classroom.github.com/a/btY4D09g
