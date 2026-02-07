@@ -31,3 +31,5 @@ Devoir à faire à la maison - Premier semestre : https://classroom.github.com/a
 12 - Introduction à la programmation - Fonctions : https://classroom.github.com/a/btY4D09g
 
 13 - Introduction à la programmation - Récursivité : https://classroom.github.com/a/twzKuEN5
+
+14 - Bases de données - SQL - Langage de définition de données : https://classroom.github.com/a/nF4DfP4o
