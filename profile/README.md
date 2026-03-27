@@ -35,3 +35,5 @@ Devoir à faire à la maison - Premier semestre : https://classroom.github.com/a
 14 - Bases de données - SQL - Langage de définition de données : https://classroom.github.com/a/nF4DfP4o
 
 15 - Bases de données - SQL - Requêtes simples et jointures : https://classroom.github.com/a/1MEBKVbI
+
+16  - Bases de données - SQL - Calculs et requêtes sur les ensembles : https://classroom.github.com/a/ITtPzwWz
