@@ -37,3 +37,5 @@ Devoir à faire à la maison - Premier semestre : https://classroom.github.com/a
 15 - Bases de données - SQL - Requêtes simples et jointures : https://classroom.github.com/a/1MEBKVbI
 
 16  - Bases de données - SQL - Calculs et requêtes sur les ensembles : https://classroom.github.com/a/ITtPzwWz
+
+17  - Bases de données - SQL - Sous-tables : https://classroom.github.com/a/g1k7GM5-
